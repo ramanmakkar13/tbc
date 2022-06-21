@@ -1,0 +1,84 @@
+.padding220{
+    padding-top: 180px;
+}
+h6.dark12 {
+    color: #000000bf;
+}
+h2.dark12 {
+    color: #000000bf;
+}
+p.dark12 {
+    color: #000000bf;
+}
+.dark12 {
+    color: #000000bf !important;
+}
+.padding30{
+    padding-bottom: 30px;
+}
+.content{
+    line-height: 8px ;
+}
+#buy{
+    background: #f0b90b;
+}
+.bg-black{
+    background: #141416;
+}
+.text-gold{
+    color: #f0b90b;
+}
+/* canvas {
+    display: block;
+    vertical-align: bottom;
+  }
+   */
+  
+  /* ---- particles.js container ---- */
+  
+  /* #particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  } */
+  /* .payment-cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: absolute;
+  bottom: 0;
+background-color: #14141649;
+  color:#d4c40c;
+  width: 100%;
+  padding: 20px;
+}
+#myVideo {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+.bg-dark {
+    background-color: #000000 !important;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+.golden{
+    color: #f0b90b;
+}
+a.btn.btn-purple.btn-pill.text-uppercase {
+    background: goldenrod;
+}
+#navbarNav {
+    background-color: #000;
+}
